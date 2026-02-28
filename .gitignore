@@ -1,0 +1,17 @@
+# Hassas dosyalar
+github_token
+.env
+
+# Python sanal ortam ve önbellek
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Diğer gereksizler
+.DS_Storevenv/
+.venv/
+__pycache__/
+*.pyc
+.env
+github_token
